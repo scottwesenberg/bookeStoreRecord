@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\bin\Debug\net6.0\bookeStoreRecord.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\bin\Debug\net6.0\bookeStoreRecord.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\bin\Debug\net6.0\bookeStoreRecord.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\bin\Debug\net6.0\bookeStoreRecord.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\bin\Debug\net6.0\bookeStoreRecord.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\refint\bookeStoreRecord.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\bookeStoreRecord.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\bookeStoreRecord\bookeStoreRecord\obj\Debug\net6.0\ref\bookeStoreRecord.dll
